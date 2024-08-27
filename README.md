@@ -1,8 +1,4 @@
-To help you create a comprehensive README file, I can extract relevant details from the uploaded `.sol` file (likely a Solidity contract) and incorporate them into the requested format. Let me first review the content of the uploaded file.
 
-Based on the initial content of your Solidity file, the project appears to be a contract called `GroupProject`. Here's a draft README file based on the given information:
-
----
 
 # GroupProject Solidity Contract
 
