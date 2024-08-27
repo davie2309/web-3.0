@@ -6,6 +6,9 @@ Based on the initial content of your Solidity file, the project appears to be a 
 
 # GroupProject Solidity Contract
 
+![projecy-high-resolution-logo](https://github.com/user-attachments/assets/48766ec7-91c9-4dc9-84d7-c7524382b0c7)
+
+
 ## Vision
 The **GroupProject** smart contract aims to streamline and transparently manage group projects by tracking individual contributions, ensuring fairness, and facilitating grading by an instructor. This contract eliminates disputes over contributions and grades, providing a decentralized and tamper-proof record of group member activities.
 
