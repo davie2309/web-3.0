@@ -48,6 +48,9 @@ The **GroupProject** smart contract aims to streamline and transparently manage 
 ## Contract Address
 0xb0787d85bcad25d66e72ce0a1ae8a7787e394170
 
+![Screenshot 2024-0827 201536](https://github.com/user-attachments/assets/690ac4e9-cd77-4716-9426-e3ce7db20aad)
+
+
 ## Future Scope
 - **Integration with Academic Systems:** Connect the contract to university or online education platforms to automatically reflect grades in students' academic records.
 - **Enhanced Contribution Metrics:** Develop more granular contribution tracking mechanisms (e.g., hours worked, tasks completed) for even more precise grading.
