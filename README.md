@@ -6,7 +6,7 @@
 
 
 ## Vision
-The **GroupProject** smart contract aims to streamline and transparently manage group projects by tracking individual contributions, ensuring fairness, and facilitating grading by an instructor. This contract eliminates disputes over contributions and grades, providing a decentralized and tamper-proof record of group member activities.
+The Projecy smart contract aims to streamline and transparently manage group projects by tracking individual contributions, ensuring fairness, and facilitating grading by an instructor. This contract eliminates disputes over contributions and grades, providing a decentralized and tamper-proof record of group member activities.
 
 ## Flowchart
 
